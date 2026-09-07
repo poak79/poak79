@@ -16,7 +16,15 @@
 ---
 
 ### 🛡️ Projects
-
+<details>
+<summary><b>💻 Algorithm & Problem Solving</b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/poak79/Codetree-practice"><img src="./assets/featured/codetree-practice.svg" width="49%" alt="01 Codetree-practice"/></a>
+  <a href="https://github.com/poak79/Baekjoon-practice"><img src="./assets/featured/baekjoon-practice.svg" width="49%" alt="02 Baekjoon-practice"/></a>
+  <a href="https://github.com/poak79/Programmers-practice"><img src="./assets/featured/programmers-practice.svg" width="49%" alt="03 Programmers-practice"/></a>
+</p>
+</details>
 
 ---
 
