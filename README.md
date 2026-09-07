@@ -1,4 +1,4 @@
-## 박윤서 (Yunseo Park)
+# 박윤서 (Yunseo Park)
 
 <br>
 <div align= "center">
