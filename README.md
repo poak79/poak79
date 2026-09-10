@@ -17,12 +17,37 @@
 
 ### 🛡️ Projects
 <details>
-<summary><b>💻 Algorithm & Problem Solving</b></summary>
+<summary><b>🔒 Security</b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/poak79/kr-vulhub/tree/main/n8n/CVE-2025-68613"><img src="./assets/featured/kr-vulhub.svg" width="49%" alt="01 kr-vulhub"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>🗝️ Algorithm & Problem Solving</b></summary>
 <br/>
 <p align="center">
   <a href="https://github.com/poak79/Codetree-practice"><img src="./assets/featured/codetree-practice.svg" width="49%" alt="01 Codetree-practice"/></a>
   <a href="https://github.com/poak79/Baekjoon-practice"><img src="./assets/featured/baekjoon-practice.svg" width="49%" alt="02 Baekjoon-practice"/></a>
   <a href="https://github.com/poak79/Programmers-practice"><img src="./assets/featured/programmers-practice.svg" width="49%" alt="03 Programmers-practice"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>🌐 Network</b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/poak79/pcap_program"><img src="./assets/featured/pcap-program.svg" width="49%" alt="01 pcap_program"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>💻 Web Service & Game</b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/poak79/Team-4days"><img src="./assets/featured/Team-4days.svg" width="49%" alt="01 Team-4days"/></a>
+  <a href="https://github.com/poak79/Shopping_Platform"><img src="./assets/featured/shopping-platform.svg" width="49%" alt="02 Shopping_Platform"/></a>  
 </p>
 </details>
 
