@@ -53,8 +53,10 @@
 
 ---
 
-### 📚 Education
+### 📚 Background
 - Kangnam University (2024. 03 ~ PRESENT)
+- KIS(Kangnam Information Security) 임원진 (2025. 12 ~ 2026. 06)
+- K-Shield Junior 기초 과정 (2026. 03 ~ 2026. 06)
 - WhiteHat School 4th (2026. 06 ~ PRESENT)
 
 ---
