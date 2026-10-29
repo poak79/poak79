@@ -4,7 +4,7 @@
 <div align= "center">
     <div align= "center"> <a href=https://poak79.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://poak79.tistory.com/"> </a>
          <a href=mailto:parkyunseo5@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:parkyunseo5@gmail.com"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://wealthy-rib-1fc.notion.site/Portfolio-2ad03123e962806f9444c4c6962b4286?source=copy_link"> </a>
+         <a href=https://wealthy-rib-1fc.notion.site/Portfolio-2ad03123e962806f9444c4c6962b4286?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
           </div>  <br> 
     <div align= "center">  </div> 
 </div>
