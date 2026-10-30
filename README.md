@@ -20,7 +20,8 @@
 <summary><b>🔒 Security</b></summary>
 <br/>
 <p align="center">
-  <a href="https://github.com/poak79/kr-vulhub/tree/main/n8n/CVE-2025-68613"><img src="./assets/featured/kr-vulhub.svg" width="49%" alt="01 kr-vulhub"/></a>
+  <a href="https://team-sc3n4r1o.gitbook.io/team-sc3n4r1o-docs"><img src="./assets/featured/SC3N4R1O.svg" width="49%" alt="01 Team SC3N4R1O"/></a>  
+  <a href="https://github.com/poak79/kr-vulhub/tree/main/n8n/CVE-2025-68613"><img src="./assets/featured/kr-vulhub.svg" width="49%" alt="02 kr-vulhub"/></a>
 </p>
 </details>
 
