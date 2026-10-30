@@ -16,7 +16,7 @@
 ---
 
 ### 🛡️ Projects
-<details>
+<details open>
 <summary><b>🔒 Security</b></summary>
 <br/>
 <p align="center">
